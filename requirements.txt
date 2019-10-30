@@ -29,7 +29,7 @@ kombu==4.5.0              # via celery
 markdown==2.6.11
 more-itertools==7.0.0     # via pytest
 oauthlib==3.0.1           # via requests-oauthlib, social-auth-core
-pillow==6.0.0
+pillow==6.2.0
 pluggy==0.11.0            # via pytest
 psycopg2-binary==2.8.2
 py==1.8.0                 # via pytest
