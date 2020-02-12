@@ -19,7 +19,7 @@ django-debug-toolbar==1.11
 django-htmlmin==0.11.0
 django-js-asset==1.2.2    # via django-mptt
 django-mptt==0.10.0
-django==2.2.1
+django==2.2.10
 djangorestframework==3.9.4
 faker==1.0.7
 graphql-core-next==1.0.4  # via ariadne
